@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-weight:bold;
+}
+table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: center;
+}
+table {
+	  width:100%;
+	  margin-top:35px;
+}
+.tableHeader {
+	text-align:center;
+}
